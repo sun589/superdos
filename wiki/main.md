@@ -1,3 +1,4 @@
-![baidu](../icon.png "Logo") # SuperDos Wiki
+![SuperDosLogo](../icon.png "Logo") 
+# SuperDos Wiki
 ======  
 Welcome to SuperDos Wiki!  
