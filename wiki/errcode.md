@@ -12,4 +12,4 @@ unlock文件错误，请把unlock文件更改回去
 ## 0x000000002:  
 file文件错误，请把file文件更改回去  
 
-[上一页](./wiki/mode) [Wiki 主页](/wiki/index)
+[上一页](/wiki/mode) [Wiki 主页](/wiki/index)
