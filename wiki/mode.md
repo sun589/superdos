@@ -32,4 +32,4 @@
 2.OOBE  
 3.Recovry  
 
-[Wiki 主页](/wiki/main)
+[Wiki 主页](/wiki/index)
