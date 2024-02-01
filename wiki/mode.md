@@ -32,4 +32,4 @@
 2.OOBE  
 3.Recovry  
 
-[下一页](/wiki/errcode) [Wiki 主页](/wiki/index)
+[下一页](./errcode) [Wiki 主页](./index)
