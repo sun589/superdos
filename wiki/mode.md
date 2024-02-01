@@ -2,8 +2,8 @@
 
 # 各种模式以及进入方式  
 ## Menu
-[1.Normal Mode](#NormalMode)  
-[2.Safe Mode](#SafeMode)  
+[1.NormalMode](#NormalMode)  
+[2.SafeMode](#SafeMode)  
 [3.OOBE](#OOBE)  
 [4.Recovery](#Recovery)  
 
