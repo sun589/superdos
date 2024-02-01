@@ -1,4 +1,3 @@
-# SuperDos Wiki
 # Page 1/2
 
 # 各种模式以及进入方式  
