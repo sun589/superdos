@@ -32,3 +32,5 @@
 1.SafeMode  
 2.OOBE  
 3.Recovry  
+
+[Wiki 主页](/wiki/main.md)
