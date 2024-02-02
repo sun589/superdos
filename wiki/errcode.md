@@ -1,5 +1,5 @@
 # Page 2/2  
-# 各种 ERROR CODE解释以及修复方法  
+# 各种 ERROR CODE 解释以及修复方法  
 # (NEW)  
 ## 0x000000003:  
 safemode模式被禁用,请到NormalMode设置回去  
