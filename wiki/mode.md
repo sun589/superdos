@@ -31,5 +31,6 @@
 1.SafeMode  
 2.OOBE  
 3.Recovry  
-
+比如我想进入Recovery模式,并且我的superdos文件名是superdos.exe,那么就要用"superdos.exe 3"进入recovery模式  
+  
 [下一页](/wiki/errcode) [Wiki 主页](/wiki/index)
